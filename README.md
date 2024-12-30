@@ -7,7 +7,7 @@
  The HR Analytics Dashboard provides a comprehensive view of key workforce metrics, including recruitment sources, turnover rates, diversity, and employee engagement. It highlights top-performing channels like LinkedIn and Indeed while addressing retention challenges with a 33% turnover rate. The dashboard enables deep insights into attendance, satisfaction, and termination reasons across departments, supporting targeted improvements. Interactive filters allow users to customize analysis by department, manager, and hiring dates, ensuring actionable insights. With geographic and salary visualizations, the tool aids in workforce planning and driving data-driven decisions. 
 
 ### Dataset:
-The primary dataset used for this analysis is the "HRDataset_v14" file, which includes key HR data like recruitment, demographics, turnover, attendance, and satisfaction metrics.
+The primary dataset used for this analysis is the "HRDataset_v14.csv" file, which includes key HR data like recruitment, demographics, turnover, attendance, and satisfaction metrics.
 
 ### Objective:
 The objective is to analyze workforce data to uncover insights into recruitment, retention, diversity, and engagement, enabling data-driven strategies to improve HR processes and employee satisfaction.
